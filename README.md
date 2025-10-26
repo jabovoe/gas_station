@@ -85,12 +85,27 @@ PS_4 AI-93 1000
 PS_5 AI-95 1000
 End of information about petrol filling stations
 Fill up the tank rus77-001 A-72 30
+
 Fill up the tank rus77-002 AI-93 50
 Fill up the tank rus77-003 AI-93 50
 Fill up the tank rus77-004 AI-93 50
+
+
+
+
+
 Display the petrol filling station status PS_1
+
+
 Display the system status
+
 Display the petrol filling station status PS_4
+
+
+
+
+
+
 Display the petrol filling station status PS_4
 Display the system status
 Turn off the system
